@@ -28,6 +28,4 @@ A sleek, responsive, and precision-driven web application that calculates a user
 ├── index.html      # Semantic HTML structure and layout
 ├── styles.css      # Core styling, layouts, animations, and responsive breakpoints
 └── script.js      # Form validation engines and core calculation logic
-├── index.html      # Semantic HTML structure and layout
-├── styles.css      # Core styling, layouts, animations, and responsive breakpoints
-└── script.js      # Form validation engines and core calculation logic
+
